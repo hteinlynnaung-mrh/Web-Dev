@@ -1,0 +1,39 @@
+.square1 {
+    width: 300px;
+    height: 200px;
+    background: cyan;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.square2 {
+    width: 300px;
+    height: 200px;
+    background: yellow;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+body {
+    height: 2000px;
+}
+
+.test1 {
+    width: 300px;
+    height: 200px;
+    background: cyan;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
+
+.test2 {
+    width: 300px;
+    height: 200px;
+    background: yellow;
+    position: fixed;
+    top: 150px;
+    left: 150px;
+}
